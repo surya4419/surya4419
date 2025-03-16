@@ -23,7 +23,7 @@ Hi, I'm **Surya Ganesh Yadala**, a passionate **Full-Stack Developer** from Hyde
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=surya4419&show_icons=true&theme=radical" width="48%"/>
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=surya4419&show_icons=true&theme=radical" width="48%"/> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=surya4419&theme=radical" width="48%"/>
 </p>
 
