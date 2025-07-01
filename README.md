@@ -25,12 +25,19 @@ Hi, I'm **Surya Ganesh Yadala**, a passionate **Full-Stack Developer** from Hyde
 </p>
 
 ---
+## 🏆 GitHub Trophies
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=surya4419&theme=radical&row=1&column=8&margin-w=15)
+
+---
+
+
 
 ## 📊 GitHub Stats
 
 <p align="center">
   <p align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=surya4419&show_icons=true&theme=radical" width="48%"/> -->
+ <!-- <img src="https://github-readme-stats.vercel.app/api?username=surya4419&show_icons=true&theme=radical" width="48%"/> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=surya4419&theme=radical" width="48%"/>
   </p>
  
@@ -61,3 +68,8 @@ Hi, I'm **Surya Ganesh Yadala**, a passionate **Full-Stack Developer** from Hyde
 - 💼 [LinkedIn](https://linkedin.com/in/)
 - 🐙 [GitHub](https://github.com/surya4419)
 - 📧 Email: suryaa4419@gmail.com
+
+
+
+
+
