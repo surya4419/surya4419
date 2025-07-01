@@ -2,20 +2,26 @@
 
 # 🚀 Surya Ganesh Yadala | Full-Stack Developer
 
-
 ## 🌟 About Me
 
-Hi, I'm **Surya Ganesh Yadala**, a passionate **Full-Stack Developer** from Hyderabad! I specialize in building scalable web applications using **Next.js, React.js, Node.js, MongoDB, and Tailwind CSS**. With expertise in both front-end and back-end development, I strive to create dynamic, user-friendly, and efficient applications.
+Hi, I'm **Surya Ganesh Yadala**, a passionate **Full-Stack Developer** from Hyderabad with **1+ years of experience** building scalable web applications. I specialize in **JavaScript (ES6+), TypeScript, React.js, Next.js, Node.js, and MongoDB**, with expertise in microservices, Docker, and AWS.  
 
-🔹 **BTech in Computer Science (2023 - 2027)** | Institute of Aeronautical Engineering  
-🔹 **Tech Stack:** JavaScript, Python, Java, SQL, MongoDB, Vite, Zod, Stripe, Hono  
+🔹 **B.Tech in Computer Science** | Institute of Aeronautical Engineering (JNTUH) | GPA: 8.3/10 (Top 10%)  
+🔹 **Certifications:** JavaScript (Infosys), Postman API Fundamentals, React.js (HackerRank)  
+🔹 **Achievements:** Winner - AeroHack 2025, Runner-Up - HackVision 2024  
 
 ---
 
 ## 🔥 Skills & Technologies
 
+**Frontend:** React.js, Next.js 15, JavaScript (ES6+), TypeScript, Tailwind CSS  
+**Backend:** Node.js, Express.js, REST APIs, GraphQL, Hono  
+**Databases:** MongoDB, MySQL, PostgreSQL, Supabase  
+**DevOps & Cloud:** Docker, Kubernetes, AWS (EC2, S3, Lambda), CI/CD  
+**Tools:** Git, GitHub Actions, Postman, Stripe, Zod  
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,mongodb,tailwind,js,java,python,git,github" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,js,mongodb,tailwind,java,python,git,github,aws,docker,postgres" />
 </p>
 
 ---
@@ -23,58 +29,32 @@ Hi, I'm **Surya Ganesh Yadala**, a passionate **Full-Stack Developer** from Hyde
 ## 📊 GitHub Stats
 
 <p align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=surya4419&show_icons=true&theme=radical" width="48%"/> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=surya4419&theme=radical" width="48%"/>
+ 
 </p>
 
 ---
 
 ## 🚀 Major Projects
 
-### 🖥️ SaaS Code Editor - Next.js 15 ✨
-> A powerful online IDE with **Next.js 15, Convex, Clerk, and TypeScript**. Supports **10 programming languages**, **5 VSCode themes**, and **smart output handling**. Includes **personal profiles, execution tracking, webhook integration, and a statistics dashboard**.
+### 🛒 Cartify: AI Shopping Assistant
+> Walmart-like e-commerce app with AI agent that converts tasks ("Plan Diwali party") into optimized shopping carts.  
+**Tech:** Together AI, Supabase Edge Functions, Voice Input, Smart Budgeting  
+[![Repo](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/surya4419/Cartify)
 
+### 🖥️ CodeCraft: Cloud-Based IDE (Next.js 15)
+> Collaborative IDE supporting 8+ languages with JWT auth, Stripe payments, and 40% performance boost via Redis.  
+**Tech:** Next.js 15, TypeScript, WebSockets, 2FA  
 [![Repo](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/surya4419/Code_Craft)
 
-
 ### 🍔 Pumato - Food Delivery App
-> A full-stack food delivery website with **React, Node.js, MongoDB, and Stripe** for secure payments. Features user authentication and real-time order tracking.  
+> Full-stack platform with real-time order tracking and secure payments.  
+**Tech:** React, Node.js, MongoDB, Stripe  
 [![Repo](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/surya4419/Food_Delivery)
 
-### 📈 Crypto Tracker
-> A real-time cryptocurrency tracking app using **React, Tailwind CSS, and CoinGecko API**. Features live price updates and interactive charts.  
-[![Repo](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/surya4419/cryptoTracker)
-
-
 ---
 
-
-
-## 🤝 Connect with Me
-
-<p align="center">
-  <a href="mailto:suryaa4419@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/surya4419"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://surya4419.github.io/PORTFOLIO/"><img src="https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=web&logoColor=white"></a>
-</p>
-
----
-
-⭐️ _Inspired by your passion for development! If you like my work, consider giving a star to my projects._ ⭐️
-## Hi there 👋
-
-
-<!--
-**surya4419/surya4419** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let's Connect!
+- 💼 [LinkedIn](https://linkedin.com/in/)
+- 🐙 [GitHub](https://github.com/surya4419)
+- 📧 Email: suryaa4419@gmail.com
