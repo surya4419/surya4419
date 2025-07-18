@@ -65,7 +65,7 @@ Hi, I'm **Surya Ganesh Yadala**, a passionate **Full-Stack Developer** from Hyde
 ---
 
 ## 📫 Let's Connect!
-- 💼 [LinkedIn](https://linkedin.com/in/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/surya-ganesh-yadala/)
 - 🐙 [GitHub](https://github.com/surya4419)
 - 📧 Email: suryaa4419@gmail.com
 
