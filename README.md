@@ -50,7 +50,7 @@ Hi, I'm **Surya Ganesh Yadala**, a passionate **Full-Stack Developer** from Hyde
 ### 🛒 Cartify: AI Shopping Assistant
 > Walmart-like e-commerce app with AI agent that converts tasks ("Plan Diwali party") into optimized shopping carts.  
 **Tech:** Together AI, Supabase Edge Functions, Voice Input, Smart Budgeting  
-[![Repo](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/surya4419/AgentCartify)
+[![Repo](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/surya4419/CartifyAI)
 
 ### 🖥️ CodeCraft: Cloud-Based IDE (Next.js 15)
 > Collaborative IDE supporting 8+ languages with JWT auth, Stripe payments, and 40% performance boost via Redis.  
