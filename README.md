@@ -52,15 +52,18 @@ Hi, I'm **Surya Ganesh Yadala**, a passionate **Full-Stack Developer** from Hyde
 **Tech:** Together AI, Supabase Edge Functions, Voice Input, Smart Budgeting  
 [![Repo](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/surya4419/CartifyAI)
 
-### 🖥️ CodeCraft: Cloud-Based IDE (Next.js 15)
-> Collaborative IDE supporting 8+ languages with JWT auth, Stripe payments, and 40% performance boost via Redis.  
-**Tech:** Next.js 15, TypeScript, WebSockets, 2FA  
-[![Repo](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/surya4419/Code_Craft)
 
-### 🍔 Pumato - Food Delivery App
-> Full-stack platform with real-time order tracking and secure payments.  
-**Tech:** React, Node.js, MongoDB, Stripe  
-[![Repo](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/surya4419/Food_Delivery)
+### 🌍 Zesty: Cultural Discovery Platform
+> AI-powered app to explore new cultural experiences through recommendations, social challenges, and progress tracking.  
+**Tech:** React + TypeScript, Vite, Supabase, Express.js, Qloo, Gemini  
+[![Repo](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/surya4419/Zesty)
+
+### 🧠 zeo.ai: Emotion-Aware AI for Mental Health
+> 24/7 AI companion with facial + vocal emotion recognition and lifelike avatars for empathetic mental health support.  
+**Tech:** React (Vite + TS), Node.js, Express, Tavus, Eleven Labs, Groq/OpenAI  
+[![Repo](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/surya4419/ZEO)
+
+
 
 ---
 
