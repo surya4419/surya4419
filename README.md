@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=50&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=100&lines=Hey%2C+I'm+Surya+Ganesh+Yadala+%F0%9F%91%8B;AI+Engineer+%26+Full+Stack+Developer;3x+Hackathon+Winner+%F0%9F%8F%86;Building+the+Future+with+AI+%F0%9F%9A%80)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=45&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&height=120&lines=👋+Hey%2C+I'm+Surya+Ganesh+Yadala;⚡+AI+Engineer+%26+Full+Stack+Developer;🏆+3x+Hackathon+Winner;🚀+Building+the+Future+with+AI)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
